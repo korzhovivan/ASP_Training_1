@@ -1,0 +1,58 @@
+﻿@using QR.Models
+
+@model QuestRoom
+@{
+    ViewBag.Title = "EditingRoom";
+}
+
+
+@using (Html.BeginForm("EditQuest", "Admin", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 header-adding"><h2 class="h2-adding">Edit quest room</h2></div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="well well-lg col-md-6 col-md-offset-3 m-5">
+            <span class="glyphicon glyphicon-comment icon-adding" aria-hidden="true"></span>
+            <input value="@Model.ID" name="newRoom.ID" type="text" class="form-control" placeholder="Title" aria-describedby="basic-addon1">
+            <input value="@Model.Name" name="newRoom.Name" type="text" class="form-control" placeholder="Title" aria-describedby="basic-addon1">
+            <input value="@Model.Description" name="newRoom.Description" type="text" class="form-control" placeholder="Description" aria-describedby="basic-addon1">
+
+            <input value="@Model.FearLvl" name="newRoom.FearLvl" type="text" class="form-control" placeholder="Fear level" aria-describedby="basic-addon1">
+            <input value="@Model.HardLvl" name="newRoom.HardLvl" type="text" class="form-control" placeholder="Hard level" aria-describedby="basic-addon1">
+            <input value="@Model.Adress" name="newRoom.Adress" type="text" class="form-control" placeholder="Address" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="well well-lg col-md-6 col-md-offset-3 m-5">
+            <span class="glyphicon glyphicon-time icon-adding" aria-hidden="true"></span>
+            <input value="@Model.DurationTime" name="newRoom.DurationTime" type="text" class="form-control" placeholder="Duration Time (hours)" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div id="phone-block" class="well well-lg col-md-6 col-md-offset-3">
+            <div class="phone-nav">
+                <span style="margin: 5px" class="glyphicon glyphicon-earphone icon-adding" aria-hidden="true"></span>
+                <button onclick="AddNumber()" style="border-radius: 50px; outline:none;" type="button" class="btn btn-success">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                </button>
+            </div>
+            <input value="@Model.Phone1" name="newRoom.Phone1" type="text" class="form-control" placeholder="Phone #1" aria-describedby="basic-addon1">
+            <input value="@Model.Phone2" name="newRoom.Phone2" type="text" class="form-control" placeholder="Phone #1" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 m-5">
+            <div class="text-center">
+                <input style="width: 100%; font-size: 20px" type="submit" id="btnEmpFormSubmit" value="Edit room" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+
+
+

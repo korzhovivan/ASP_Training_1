@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/add-form.css")" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+
+</head>
+<body>
+    
+    <div class="row" style="margin-bottom: 10px">
+        <div class="col-md-3 col-md-push-5">
+            <ul class="nav nav-pills">
+                <li role="presentation">
+                    @Html.ActionLink("Home", "Index", new { controller = "Home" })
+                </li>
+                <li role="presentation">
+                    @Html.ActionLink("Admin panel", "Index", "Admin")
+                </li>
+                <li role="presentation">
+                    @Html.ActionLink("Add room", "AddingRoom", new { controller = "Admin" })
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jquery")
+
+
+</body>
+</html>

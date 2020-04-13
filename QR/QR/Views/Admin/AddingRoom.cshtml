@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "AddingRoom";
+}
+@section Scripts {
+    <script>
+        function AddNumber() {
+            var phoneBlock = document.getElementById('phone-block');
+            var inputs = phoneBlock.getElementsByTagName('input');
+            
+            if (inputs.length == 1) {
+                var input = document.createElement('input');
+                input.type = 'text';
+                input.className = 'form-control';
+                input.placeholder = 'Phone #2';
+                input.name = 'newRoom.Phone2'
+                phoneBlock.appendChild(input);
+                p
+            } else {
+               alert("You can not add more than 2 numbers!")
+            }
+        }
+    </script>
+
+}
+@using(Html.BeginForm("AddQuest", "Admin",FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 header-adding"><h2 class="h2-adding">Adding a new quest room</h2></div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="well well-lg col-md-6 col-md-offset-3 m-5">
+            <span class="glyphicon glyphicon-comment icon-adding" aria-hidden="true"></span>
+            <input name="newRoom.ID" type="text" class="form-control" placeholder="ID" aria-describedby="basic-addon1">
+            <input name="newRoom.Name" type="text" class="form-control" placeholder="Title" aria-describedby="basic-addon1">
+            <input name="newRoom.Description" type="text" class="form-control" placeholder="Description" aria-describedby="basic-addon1">
+
+            <input name="newRoom.FearLvl" type="text" class="form-control" placeholder="Fear level" aria-describedby="basic-addon1">
+            <input name="newRoom.HardLvl" type="text" class="form-control" placeholder="Hard level" aria-describedby="basic-addon1">
+            <input name="newRoom.Adress" type="text" class="form-control" placeholder="Address" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="well well-lg col-md-6 col-md-offset-3 m-5">
+            <span class="glyphicon glyphicon-time icon-adding" aria-hidden="true"></span>
+            <input name="newRoom.DurationTime" type="text" class="form-control" placeholder="Duration Time (hours)" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div id="phone-block" class="well well-lg col-md-6 col-md-offset-3">
+            <div class="phone-nav">
+                <span style="margin: 5px" class="glyphicon glyphicon-earphone icon-adding" aria-hidden="true"></span>
+                <button onclick="AddNumber()" style="border-radius: 50px; outline:none;" type="button" class="btn btn-success">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                </button>
+            </div>
+            <input name="newRoom.Phone1" type="text" class="form-control" placeholder="Phone #1" aria-describedby="basic-addon1">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 m-5">
+            <div class="text-center">
+                <input style="width: 100%; font-size: 20px" type="submit" id="btnEmpFormSubmit" value="Add room" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+
+
+

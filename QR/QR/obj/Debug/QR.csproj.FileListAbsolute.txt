@@ -1,0 +1,300 @@
+C:\Users\PC\source\repos\QR\QR\bin\QR.dll.config
+C:\Users\PC\source\repos\QR\QR\bin\QR.dll
+C:\Users\PC\source\repos\QR\QR\bin\QR.pdb
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\QR\QR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\QR\QR\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\QR\QR\bin\Autofac.dll
+C:\Users\PC\source\repos\QR\QR\bin\Autofac.Integration.Mvc.dll
+C:\Users\PC\source\repos\QR\QR\bin\Elasticsearch.Net.dll
+C:\Users\PC\source\repos\QR\QR\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\QR\QR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\QR\QR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\QR\QR\bin\Nest.dll
+C:\Users\PC\source\repos\QR\QR\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Buffers.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\QR\QR\bin\WebGrease.dll
+C:\Users\PC\source\repos\QR\QR\bin\Autofac.pdb
+C:\Users\PC\source\repos\QR\QR\bin\Autofac.xml
+C:\Users\PC\source\repos\QR\QR\bin\Autofac.Integration.Mvc.xml
+C:\Users\PC\source\repos\QR\QR\bin\Elasticsearch.Net.pdb
+C:\Users\PC\source\repos\QR\QR\bin\Elasticsearch.Net.xml
+C:\Users\PC\source\repos\QR\QR\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\source\repos\QR\QR\bin\Nest.pdb
+C:\Users\PC\source\repos\QR\QR\bin\Nest.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Buffers.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\QR\QR\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\QR\QR\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\QR\QR\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\QR\QR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\QR\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\QR\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QR\QR\obj\Debug\QR.csproj.CopyComplete
+C:\Users\PC\source\repos\QR\QR\obj\Debug\QR.dll
+C:\Users\PC\source\repos\QR\QR\obj\Debug\QR.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\QR.dll.config
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\QR.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\QR.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csc.exe
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csc.exe.config
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csc.rsp
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csi.exe
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csi.exe.config
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\csi.rsp
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.AppContext.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Console.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Net.Http.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\vbc.exe
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\vbc.exe.config
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\vbc.rsp
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\netstandard.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.AppContext.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Collections.Concurrent.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Collections.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Collections.NonGeneric.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Collections.Specialized.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ComponentModel.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ComponentModel.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Console.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Data.Common.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.Contracts.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.Debug.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.Process.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.Tools.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.Tracing.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Drawing.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Dynamic.Runtime.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Globalization.Calendars.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Globalization.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Globalization.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.Compression.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.FileSystem.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.IsolatedStorage.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.Pipes.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Linq.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Linq.Expressions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Linq.Parallel.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Linq.Queryable.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Http.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.NameResolution.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.NetworkInformation.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Ping.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Requests.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Security.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.Sockets.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.WebSockets.Client.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Net.WebSockets.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ObjectModel.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Reflection.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Reflection.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Reflection.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Resources.Reader.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Resources.ResourceManager.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Resources.Writer.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Handles.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.InteropServices.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Numerics.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Claims.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.Principal.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Security.SecureString.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Text.Encoding.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Text.RegularExpressions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Overlapped.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Tasks.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Thread.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.ThreadPool.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Timer.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.ValueTuple.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.ReaderWriter.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.XDocument.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.XmlDocument.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.XmlSerializer.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.XPath.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Antlr3.Runtime.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Autofac.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Autofac.Integration.Mvc.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Elasticsearch.Net.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Nest.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Newtonsoft.Json.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Buffers.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Helpers.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Mvc.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Optimization.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Razor.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\WebGrease.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Autofac.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Autofac.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Autofac.Integration.Mvc.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Elasticsearch.Net.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Elasticsearch.Net.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Nest.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Nest.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Buffers.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Helpers.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Mvc.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Optimization.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.Razor.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Newtonsoft.Json.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Antlr3.Runtime.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\Desktop\QR\QR\obj\Debug\QR.csproj.CopyComplete
+C:\Users\Korzhov Ivan\Desktop\QR\QR\obj\Debug\QR.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\obj\Debug\QR.pdb
+C:\Users\Korzhov Ivan\Desktop\QR\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\EntityFramework.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\EntityFramework.SqlServer.dll
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\EntityFramework.xml
+C:\Users\Korzhov Ivan\Desktop\QR\QR\bin\EntityFramework.SqlServer.xml

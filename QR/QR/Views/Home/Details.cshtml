@@ -1,0 +1,35 @@
+﻿@using QR.Models
+
+@model QuestRoom
+
+@{
+    ViewBag.Title = "Details";
+    string phone2 = "";
+}
+
+
+    <div class="container body-content">
+        
+
+        <ul style="list-style: none"  class="quests-list">
+            <li class="quest-item">
+                <div class="jumbotron">
+                    <h1 class="display-4">@Model.Name</h1>
+                    <p class="lead">@Model.Description</p>
+                    <hr class="my-4" />
+                    <p>Adress: @Model.Adress</p>
+                    <p>Duration: @Model.DurationTime</p>
+                    <hr class="my-4" />
+                    <p>Phone number: @Model.Phone1 @phone2
+                    @if(@Model.Phone2 != null) { phone2 = "(" + Model.Phone2 + ")"; };
+                    </p>
+                    <p>Fear level: @Model.FearLvl</p>
+                    <p>Hard level: @Model.HardLvl</p>
+                    <p class="lead">
+                        @Html.ActionLink("GO back", "Index")
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+       

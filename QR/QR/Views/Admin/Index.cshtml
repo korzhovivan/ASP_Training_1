@@ -1,0 +1,31 @@
+﻿@using QR.Models
+
+@model List<QuestRoom>
+
+@{
+    ViewBag.Title = "List";
+
+}
+
+<div class="container body-content">
+    <ul style="list-style: none" class="quests-list">
+        @foreach (QuestRoom room in Model)
+        {
+            <li class="quest-item">
+                <div class="jumbotron">
+                    <h1 class="display-4">@room.Name</h1>
+                    @using (Html.BeginForm("EditingRoom", "Admin", new { Id = room.ID }, FormMethod.Post))
+                    {
+                        <input type="submit" class="btn btn-primary" value="Edit" />
+                    }
+                    @using (Html.BeginForm("DeleteQuest", "Admin", new { Id = room.ID }, FormMethod.Post))
+                    {
+                        <input type="submit" class="btn btn-danger" value="Delete" />
+                    }
+
+                </div>
+            </li>
+
+        }
+    </ul>
+</div>

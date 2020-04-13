@@ -1,0 +1,35 @@
+﻿
+.header-adding {
+    background: #087ec7;
+}
+
+.h2-adding {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 10px 0;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    margin: 5px;
+    max-width: 526px;
+}
+
+.icon-adding {
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    margin-bottom: 12px;
+}
+img{
+    width: 100%;
+}
+
+.phone-nav {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
